@@ -1,0 +1,1 @@
+pyinstaller run.pyw --onefile --noconsole --name="Image_Viewer_v1.0.0" --icon="./logo.ico" --add-data="./logo.ico;."
